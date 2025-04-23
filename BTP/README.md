@@ -1,4 +1,4 @@
-#Abstract
+# Abstract
 Geodesics around the black hole can be used to describe important features of the space
 time. This paper discusses studying the geodesic of Schwarzchild black hole using its Jacobi
 metric and determines the stability of the same using lyapunov exponents in the same
